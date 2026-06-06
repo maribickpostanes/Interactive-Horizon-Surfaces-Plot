@@ -21,7 +21,6 @@ To view the interactive plot, follow these steps:
 4. The generated plot will be displayed within the Jupyter Notebook interface.
 
 Alternatively, you can directly view the interactive plot by opening the `Volve Horizon Surfaces.html` file in a web browser without running the Jupyter Notebook. Please note that running the code in a Jupyter Notebook environment is recommended to fully experience the interactivity and functionality of the plot.
-
 ![Volve Horizon Surfaces Screenshot](https://github.com/maribickpostanes/Interactive-Horizon-Surfaces-Plot/assets/127098659/ddb1e2a6-777f-4348-821d-b37e14e8b515)
 ## Data Credit and Source
 Equinor ASA (formerly Statoil) and the former Volve license partners, ExxonMobil Exploration & Production Norway AS and Bayerngas Norge AS, are credited for providing the Volve dataset under the CC BY 4.0 license.
