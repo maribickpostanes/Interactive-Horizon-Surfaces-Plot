@@ -1,8 +1,7 @@
-# Interactive-Horizon-Surfaces-Plot
+# Interactive Horizon Surfaces Plot using Python
 This open-source code repository provides a Python implementation for generating an interactive horizon surfaces plot using Plotly. The focus of this code is to visualize the Volve horizons in a 3D surface plot.
 
 ## Features
-
 - Interactive visualization: Explore the horizon surfaces plot with zooming, panning, and hovering capabilities.
 - Horizon visualization: Display multiple geological horizons including BCU, Hugin Fm Base, Hugin Fm Top, Shetland GP Top, and Ty Fm Top.
 - Data integration: Utilize data from the Volve dataset for generating the horizon surfaces.
@@ -10,7 +9,6 @@ This open-source code repository provides a Python implementation for generating
 - Easy-to-use: The code provides a straightforward interface for generating the horizon surfaces plot in Python.
 
 ## Note on Interactive Plot
-
 Please note that the interactive plot may not be visible when viewing the Jupyter Notebook file directly on GitHub. However, an alternative HTML file (`Volve Horizon Surfaces Python Code.html`) is included in this repository, showcasing the interactive plot.
 
 To view the interactive plot, follow these steps:
